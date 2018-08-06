@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AnoBissexto</string>
+    <string name="app_name">Ano Bissexto</string>
+    <string name="titulo">Digite um ano e verifique se ele é bissexto</string>
 </resources>
