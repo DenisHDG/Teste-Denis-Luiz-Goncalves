@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agence</string>
+    <string name="title">Login</string>
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/google"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="Google">
+
+    </item>
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Notification">
+
+    </item>
+</group>
+</menu>
